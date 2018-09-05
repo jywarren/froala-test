@@ -136,7 +136,9 @@
   .fdb-block img {
     border-radius: 4px;
     -moz-border-radius: 4px;
-    -webkit-border-radius: 4px; }
+    -webkit-border-radius: 4px;
+    max-width: 100%;
+    height: auto; }
     .fdb-block img + p, .fdb-block img + h3, .fdb-block img + h4 {
       margin-top: 20px; }
     .fdb-block img + h1, .fdb-block img + h2 {
